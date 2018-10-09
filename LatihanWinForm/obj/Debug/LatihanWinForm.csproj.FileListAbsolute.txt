@@ -1,0 +1,10 @@
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojAssemblyReference.cache
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.cache
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+D:\pemrog\rev\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
